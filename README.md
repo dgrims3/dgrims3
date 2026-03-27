@@ -10,6 +10,9 @@ Outside of work, I build tools I find interesting — from astronomical calculat
 A visual branching interface for Claude conversations. Renders chat as a directed acyclic graph so you can branch off from any message and explore parallel threads. Built with React 19, React Flow, and Express.  
 **[Try it live →](https://llm-dag-ui.vercel.app)**
 
+### [Receipt Tracker](https://github.com/dgrims3/receipt-tracker)
+A self-hosted spending tracker where LLMs replace traditional application logic. Snap a receipt photo, and AI extracts line items, interprets abbreviations, and categorizes them into SQLite. Query spending in plain English — the LLM translates questions directly into SQL. Supports Claude Vision API or fully local inference with Tesseract OCR and Ollama. Built with Node.js, Express, and vanilla JS.
+
 ### [MoonLocatorLibrary](https://github.com/dgrims3/MoonLocatorLibrary)
 A high-precision Java library for lunar position calculations — azimuth, altitude, rise/set times, illumination, distance, and more. Implements NREL and Meeus algorithms. Published on [Maven Central](https://central.sonatype.com/artifact/io.github.dgrims3/moon-library).
 
